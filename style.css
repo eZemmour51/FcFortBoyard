@@ -24,6 +24,7 @@ body
     background-color: rgb(255, 255, 255);
     width: 1260px;
     margin: 0 auto;
+    border-style: dotted;
 }
 
 .title
